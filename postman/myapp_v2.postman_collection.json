@@ -92,7 +92,7 @@
 			"response": []
 		},
 		{
-			"name": "Получение данных о пользователе Copy",
+			"name": "Удаление пользователя",
 			"request": {
 				"method": "DELETE",
 				"header": [],
